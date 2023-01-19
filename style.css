@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+div{
+    background-color: rgba(255, 0, 0, 0.195);
+    border: 1px solid rgba(255, 0, 0, 0.47);
+}
+
+.block-navbar{
+    background-color: #1F2937;
+    padding: 0px;
+    min-height: 0px;
+}
+
+.block-header{
+    background-color: #1F2937;
+
+}
+
+.block-info{
+
+}
+
+.block-quote{
+background-color: #E5E7EB;
+}
+.block-cta{
+
+}
+
+.block-footer{
+    background-color: #1F2937;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
